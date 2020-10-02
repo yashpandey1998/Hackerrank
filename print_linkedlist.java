@@ -51,6 +51,11 @@ public class print_linkedlist {
      * }
      *
      */
+    int func()
+    {
+        return 0;
+    }
+    
     static void printLinkedList(SinglyLinkedListNode head)
      {
         SinglyLinkedListNode temp=head;
